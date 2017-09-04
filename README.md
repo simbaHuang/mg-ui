@@ -1,2 +1,2 @@
-# mg-ui
-一个css框架
+# mz-ui
+一css框架
